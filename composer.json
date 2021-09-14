@@ -1,0 +1,19 @@
+{
+  "name": "fullkernelpanic/api-client-base",
+  "description": "Basic definitions for any api client",
+  "type": "library",
+  "autoload": {
+    "psr-4": {
+      "ApiClientBase\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "FullKernelPanic",
+      "email": "zackraven@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  }
+}
