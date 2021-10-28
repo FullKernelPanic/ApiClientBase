@@ -2,6 +2,7 @@
   "name": "fullkernelpanic/api-client-base",
   "description": "Basic definitions for any api client",
   "type": "library",
+  "minimum-stability": "stable",
   "autoload": {
     "psr-4": {
       "ApiClientBase\\": "src/"
