@@ -2,9 +2,7 @@
 
 namespace ApiClientBase;
 
-use Exception;
-
-class UnsupportedRequestType extends Exception
+class UnsupportedRequestType extends ApiException
 {
 
 }
